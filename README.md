@@ -11,7 +11,7 @@ Commit erstellen (verwenden Sie `"Aufgabe x fertig."` als Commit-Nachricht.)
 
 ## Aufgabe 1 (Repository forken - 1 P.)
 
-Forken Sie das Repository in Ihren eigenen Github-Account.
+Forken Sie das Repository in Ihren eigenen Github-Account. 
 
 ## Aufgabe 2 (Style anpassungen - 3 P.)
 
